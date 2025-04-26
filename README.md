@@ -1,4 +1,5 @@
 💳 Loan Default Prediction Model 💸
+
 This project implements a machine learning model to predict the likelihood of loan default based on historical loan data. The model uses various classification algorithms to determine whether a loan applicant is likely to default on a loan. It helps financial institutions assess the risk before granting loans to applicants.
 
 🛠️ Features:
